@@ -1,0 +1,292 @@
+Uri: https://archive.org/includes/athena.js
+File Name: C:\Downloaded Web Sites\web.archive.org\includes\athena-1.js
+Content Type: application/x-javascript
+
+Uri: https://archive.org/services/img/archiveteam
+File Name: C:\Downloaded Web Sites\web.archive.org\services\img\archiveteam
+Content Type: image/jpeg
+
+Uri: https://archive.org/services/img/archiveteam_urls
+File Name: C:\Downloaded Web Sites\web.archive.org\services\img\archiveteam_urls
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20231019134308im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Diseno-sin-titulo-2023-09-26T160735.712-386x1024.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134308im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Diseno-sin-titulo-2023-09-26T160735.712-386x1024.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019134309im_/https://nasdaqerc.com/wp-content/uploads/2023/10/HEYYEYAAEYAAAEYAEYAA-2.mp3
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134309im_\https\nasdaqerc.com\wp-content\uploads\2023\10\HEYYEYAAEYAAAEYAEYAA-2.mp3
+Content Type: audio/mpeg
+
+Uri: https://web.archive.org/web/20231019134311cs_/https://nasdaqerc.com/wp-content/uploads/elementor/css/post-9.css?ver=1697629324
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134311cs_\https\nasdaqerc.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134311im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Diseno-sin-titulo-2023-09-26T152049.112.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134311im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Diseno-sin-titulo-2023-09-26T152049.112.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019134311js_/https://nasdaqerc.com/wp-content/plugins/az-video-and-audio-player-addon-for-elementor/assets/js/plyr.polyfilled.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134311js_\https\nasdaqerc.com\wp-content\plugins\az-video-and-audio-player-addon-for-elementor\assets\js\plyr.polyfilled.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134311js_/https://nasdaqerc.com/wp-content/plugins/html5-audio-player/js/inline-player.js?ver=2.2.14
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134311js_\https\nasdaqerc.com\wp-content\plugins\html5-audio-player\js\inline-player.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134312im_/https://nasdaqerc.com/wp-content/uploads/2023/09/photo_2023-09-24_11-19-22-2-768x256.jpg
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134312im_\https\nasdaqerc.com\wp-content\uploads\2023\09\photo_2023-09-24_11-19-22-2-768x256.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20231019134313im_/https://nasdaqerc.com/wp-content/uploads/2023/09/photo_2023-09-24_11-19-22-2-300x100.jpg
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134313im_\https\nasdaqerc.com\wp-content\uploads\2023\09\photo_2023-09-24_11-19-22-2-300x100.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20231019134313im_/https://nasdaqerc.com/wp-content/uploads/2023/10/hFZ.gif
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134313im_\https\nasdaqerc.com\wp-content\uploads\2023\10\hFZ.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20231019134313js_/https://nasdaqerc.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134313js_\https\nasdaqerc.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134313js_/https://nasdaqerc.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134313js_\https\nasdaqerc.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134314cs_/https://nasdaqerc.com/wp-content/plugins/az-video-and-audio-player-addon-for-elementor/assets/css/plyr.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134314cs_\https\nasdaqerc.com\wp-content\plugins\az-video-and-audio-player-addon-for-elementor\assets\css\plyr.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134314js_/https://nasdaqerc.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134314js_\https\nasdaqerc.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134315cs_/https://nasdaqerc.com/wp-content/plugins/az-video-and-audio-player-addon-for-elementor/assets/css/main.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134315cs_\https\nasdaqerc.com\wp-content\plugins\az-video-and-audio-player-addon-for-elementor\assets\css\main.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134315cs_/https://nasdaqerc.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134315cs_\https\nasdaqerc.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134315im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Diseno-sin-titulo-2023-09-26T152049.112-386x1024.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134315im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Diseno-sin-titulo-2023-09-26T152049.112-386x1024.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019134315im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Diseno-sin-titulo-2023-09-26T160735.712-113x300.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134315im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Diseno-sin-titulo-2023-09-26T160735.712-113x300.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019134315im_/https://nasdaqerc.com/wp-content/uploads/2023/10/5RT9.gif
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134315im_\https\nasdaqerc.com\wp-content\uploads\2023\10\5RT9.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20231019134315js_/https://nasdaqerc.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134315js_\https\nasdaqerc.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134315js_/https://nasdaqerc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134315js_\https\nasdaqerc.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134319js_/https://nasdaqerc.com/wp-content/plugins/loftloader-pro/assets/js/jquery.waitformedias.min.js?ver=2022022501
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134319js_\https\nasdaqerc.com\wp-content\plugins\loftloader-pro\assets\js\jquery.waitformedias.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134320im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Sin-titulo-e1695755745728-300x62.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134320im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Sin-titulo-e1695755745728-300x62.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019134321/https://nasdaqerc.com/wp-content/uploads/2023/10/y7.gif
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134321\https\nasdaqerc.com\wp-content\uploads\2023\10\y7.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20231019134321cs_/https://nasdaqerc.com/wp-content/plugins/loftloader-pro/assets/css/loftloader.min.css?ver=2022022501
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134321cs_\https\nasdaqerc.com\wp-content\plugins\loftloader-pro\assets\css\loftloader.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134321im_/https://nasdaqerc.com/wp-content/uploads/2023/10/y7.gif
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134321im_\https\nasdaqerc.com\wp-content\uploads\2023\10\y7.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/web/20231019134321js_/https://nasdaqerc.com/wp-content/plugins/retro-game-emulator/lib/app.js?ver=1.3.1
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134321js_\https\nasdaqerc.com\wp-content\plugins\retro-game-emulator\lib\app.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134322js_/https://nasdaqerc.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134322js_\https\nasdaqerc.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134323cs_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134323cs_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134323cs_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134323cs_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134323cs_/https://nasdaqerc.com/wp-content/themes/hello-elementor/style.min.css?ver=2.8.1
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134323cs_\https\nasdaqerc.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134323im_/https://nasdaqerc.com/wp-content/uploads/2023/09/photo_2023-09-24_11-19-22-2.jpg
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134323im_\https\nasdaqerc.com\wp-content\uploads\2023\09\photo_2023-09-24_11-19-22-2.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20231019134324im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Diseno-sin-titulo-2023-09-26T152049.112-113x300.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134324im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Diseno-sin-titulo-2023-09-26T152049.112-113x300.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019134324js_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134324js_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134324js_/https://nasdaqerc.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134324js_\https\nasdaqerc.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134326im_/https://nasdaqerc.com/wp-content/uploads/2023/09/photo_2023-09-24_11-19-22-2-1024x341.jpg
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134326im_\https\nasdaqerc.com\wp-content\uploads\2023\09\photo_2023-09-24_11-19-22-2-1024x341.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20231019134326js_/https://nasdaqerc.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134326js_\https\nasdaqerc.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134327cs_/https://nasdaqerc.com/wp-content/uploads/elementor/css/global.css?ver=1697629324
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134327cs_\https\nasdaqerc.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019134327js_/https://nasdaqerc.com/wp-content/plugins/retro-game-emulator/lib/jsnes.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134327js_\https\nasdaqerc.com\wp-content\plugins\retro-game-emulator\lib\jsnes.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019134556cs_/https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.2
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019134556cs_\https\fonts.googleapis.com\css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019141829js_/https://nasdaqerc.com/wp-content/plugins/loftloader-pro/assets/js/loftloader.min.js?ver=2022022501
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019141829js_\https\nasdaqerc.com\wp-content\plugins\loftloader-pro\assets\js\loftloader.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019141842js_/https://nasdaqerc.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019141842js_\https\nasdaqerc.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019142001js_/https://nasdaqerc.com/wp-content/plugins/az-video-and-audio-player-addon-for-elementor/assets/js/main.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142001js_\https\nasdaqerc.com\wp-content\plugins\az-video-and-audio-player-addon-for-elementor\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019142050cs_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142050cs_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019142141im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Sin-titulo-e1695755745728.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142141im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Sin-titulo-e1695755745728.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019142257js_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142257js_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019142327im_/https://nasdaqerc.com/wp-content/uploads/2023/09/Diseno-sin-titulo-2023-09-26T160735.712.png
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142327im_\https\nasdaqerc.com\wp-content\uploads\2023\09\Diseno-sin-titulo-2023-09-26T160735.712.png
+Content Type: image/png
+
+Uri: https://web.archive.org/web/20231019142435js_/https://nasdaqerc.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142435js_\https\nasdaqerc.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019142650im_/https://nasdaqerc.com/wp-content/uploads/2023/07/Ev6EIPlD_400x400-150x150.jpg
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142650im_\https\nasdaqerc.com\wp-content\uploads\2023\07\Ev6EIPlD_400x400-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20231019142740js_/https://nasdaqerc.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142740js_\https\nasdaqerc.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019142826js_/https://nasdaqerc.com/wp-content/plugins/az-video-and-audio-player-addon-for-elementor/assets/js/plyr.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142826js_\https\nasdaqerc.com\wp-content\plugins\az-video-and-audio-player-addon-for-elementor\assets\js\plyr.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019142852im_/https://nasdaqerc.com/wp-content/uploads/2023/07/Ev6EIPlD_400x400-300x300.jpg
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142852im_\https\nasdaqerc.com\wp-content\uploads\2023\07\Ev6EIPlD_400x400-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://web.archive.org/web/20231019142922js_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019142922js_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019143120/https://nasdaqerc.com/
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019143120\https\nasdaqerc.com\index.htm
+Content Type: text/html
+
+Uri: https://web.archive.org/web/20231019143318js_/https://nasdaqerc.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019143318js_\https\nasdaqerc.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/web/20231019143533cs_/https://nasdaqerc.com/wp-content/uploads/elementor/css/post-5.css?ver=1697629324
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019143533cs_\https\nasdaqerc.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019154622cs_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019154622cs_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019154749cs_/https://nasdaqerc.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019154749cs_\https\nasdaqerc.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://web.archive.org/web/20231019155711js_/https://nasdaqerc.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\web.archive.org\web\20231019155711js_\https\nasdaqerc.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://web.archive.org/_static/css/banner-styles.css?v=S1zqJCYt
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\css\banner-styles-1.css
+Content Type: text/css
+
+Uri: https://web.archive.org/_static/css/iconochive.css?v=3PDvdIFv
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\css\iconochive-1.css
+Content Type: text/css
+
+Uri: https://web.archive.org/_static/images/loading.gif
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\images\loading-1.gif
+Content Type: image/gif
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-100-1.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-150-1.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\images\toolbar\wayback-toolbar-logo-200-1.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\images\toolbar\wm_tb_nxt_on.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/images/toolbar/wm_tb_prv_off.png
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\images\toolbar\wm_tb_prv_off.png
+Content Type: image/png
+
+Uri: https://web.archive.org/_static/js/bundle-playback.js?v=krFivnjJ
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\js\bundle-playback-1.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/_static/js/ruffle/ruffle.js
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\js\ruffle\ruffle-1.js
+Content Type: application/javascript
+
+Uri: https://web.archive.org/_static/js/wombat.js?v=txqj7nKC
+File Name: C:\Downloaded Web Sites\web.archive.org\_static\js\wombat-1.js
+Content Type: application/javascript
+
+Uri: https://wiki.archiveteam.org/images/e/e6/Archiveteam.jpg
+File Name: C:\Downloaded Web Sites\web.archive.org\images\e\e6\Archiveteam.jpg
+Content Type: image/jpeg
+

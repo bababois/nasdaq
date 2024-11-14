@@ -1,0 +1,53 @@
+.plyr__controls input[type=range]::-webkit-slider-runnable-track{
+	box-shadow: none;
+}
+.plyr--audio .plyr__controls{
+	background: transparent;
+}
+.vapfem_not_found{
+	text-align: center;
+	background: #1AAFFF;
+	color: #fff;
+	padding: 15px 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/*customify theme support*/
+.theme-customify .plyr [data-plyr=airplay],
+.theme-customify .plyr [data-plyr=captions],
+.theme-customify .plyr [data-plyr=fullscreen],
+.theme-customify .plyr [data-plyr=pip],
+body.theme-customify .elementor-widget-vapfem_audio_player .plyr__control--overlaid{
+    display: none;
+}
+.theme-customify .plyr--full-ui input[type=range]{
+	box-shadow: none;
+}
+
+/*BeTheme support*/
+.plyr button{
+	margin-bottom: 0;
+}
+/*
+     FILE ARCHIVED ON 13:43:15 Oct 19, 2023 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:56:46 Nov 14, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.598
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.017
+  esindex: 0.014
+  cdx.remote: 10.684
+  LoadShardBlock: 113.509 (3)
+  PetaboxLoader3.datanode: 87.97 (5)
+  PetaboxLoader3.resolve: 82.515 (2)
+  load_resource: 96.636
+  loaddict: 27.055
+*/
